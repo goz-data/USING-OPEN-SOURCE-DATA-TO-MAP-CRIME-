@@ -23,3 +23,12 @@ In order to achieve the Crime type of Burglary for the study, the research work 
 
 # Conclusions
  This final section concludes with some suggestions for the crime in study to be curbed.   PANDA, SPATIAL, SARA are all crime models that are all recommended, although they're similar crime models but overlapping themes. The main focus of the models is the need to reduce crime in urban and suburban communities.
+ 
+ # Relevant Links
+ * [Personal Website](https://www.goz-analytics.com/)
+ * [Medium Article](https://medium.com/@goz-analytics)
+ * [LinkedIn](https://www.linkedin.com/in/chigozie-obianefo/)
+ * [Twitter](https://twitter.com/Chigozie_dydx)
+ 
+ 
+ - 
