@@ -30,5 +30,3 @@ In order to achieve the Crime type of Burglary for the study, the research work 
  * [LinkedIn](https://www.linkedin.com/in/chigozie-obianefo/)
  * [Twitter](https://twitter.com/Chigozie_dydx)
  
- 
- - 
